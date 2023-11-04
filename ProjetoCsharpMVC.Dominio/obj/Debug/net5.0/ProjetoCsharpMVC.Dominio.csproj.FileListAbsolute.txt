@@ -1,0 +1,12 @@
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\bin\Debug\net5.0\ProjetoCsharpMVC.Dominio.deps.json
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\bin\Debug\net5.0\ProjetoCsharpMVC.Dominio.dll
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\bin\Debug\net5.0\ProjetoCsharpMVC.Dominio.pdb
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ProjetoCsharpMVC.Dominio.csproj.AssemblyReference.cache
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ProjetoCsharpMVC.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ProjetoCsharpMVC.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ProjetoCsharpMVC.Dominio.AssemblyInfo.cs
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ProjetoCsharpMVC.Dominio.csproj.CoreCompileInputs.cache
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ProjetoCsharpMVC.Dominio.dll
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\refint\ProjetoCsharpMVC.Dominio.dll
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ProjetoCsharpMVC.Dominio.pdb
+C:\ProjetoCSharpMVC\ProjetoCSharpMVC\ProjetoCsharpMVC.Dominio\obj\Debug\net5.0\ref\ProjetoCsharpMVC.Dominio.dll
